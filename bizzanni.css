@@ -476,6 +476,7 @@ input:focus{
     }
     .top-image{
         background-image: none;
+        height:600px;
         background-color: black;
         }
 
