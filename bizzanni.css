@@ -105,7 +105,7 @@ button:focus{
     width:290px !important;
     height: 400px;
     border-radius: 20px;
-    background-repeat: no-repeat !important;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-image: url(portfolio-images/img5.jpg);
@@ -482,6 +482,7 @@ input:focus{
 
     .part1{
         background-repeat:no-repeat !important;
+        background-size:cover;
         width: 240px !important;
         margin-right: auto;
         margin-left: auto;
